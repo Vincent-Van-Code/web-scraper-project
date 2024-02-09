@@ -1,1 +1,1 @@
-# linkedin-scraper-project
+#scraper-project
